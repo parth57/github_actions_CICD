@@ -32,8 +32,4 @@ jobs:
 
       # Step 4: Run tests
       - name: Run tests
-<<<<<<< HEAD
         run: pytest
-=======
-        run: pytest
->>>>>>> 6dc11797316d5f50447a675012ba1c726a1af73e
